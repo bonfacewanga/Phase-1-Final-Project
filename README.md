@@ -24,3 +24,6 @@ For Tuesday the user has to follow the same drill as in Monday in channeling the
 For Wednesday, the drill being the exact same, the focus of the day is working the biceps muscles.
 
 ## Thursday
+This day focuses more on working the triceps part of the arms.
+
+## Friday 

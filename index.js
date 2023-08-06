@@ -45,7 +45,11 @@
             const exercieInstructions = document.getElementById('exerciseinstructions')
             exercieInstructions.textContent = exercise.instructions
             
+        } else {
+            alert('Exercise not found')
         }
+    }
+     // Select element from dropdown list
     
    
 

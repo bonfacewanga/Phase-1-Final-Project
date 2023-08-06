@@ -34,7 +34,10 @@ Saturday reverts to the upper body muscles with the focus particularly on should
 
 
 ## Sunday
+Sunday is a unique day in itself. It's an amazing day and it involves the user engaging in a relaxing yoga session with no intensive kind of exercises.
+The user is required to adhere to their meals and make sure to enjoy themselves and relax as they await the pending week and the exercises that come with it.
 
+## Additional Functionalities
 
 
 

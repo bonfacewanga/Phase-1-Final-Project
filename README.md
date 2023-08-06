@@ -12,3 +12,9 @@ It also has a dropdown list that allows the user to select the day of the week t
 The application provides a set of instrucions on how to execute the exercise correctly for optimum gain and to prevent any form of injury that may occur from engaging in the exercise in the wrong posture for example.
 The application as well provides the primary equipment for that particular set of exercise.
 There's also an illustration image to help guide the user.
+
+## Monday
+For Monday, the application guides the user towards engaging on some set of exercises aimed at gaining muscle for the chest. 
+
+
+## Tuesday

@@ -8,6 +8,9 @@
     document.getElementById('time-schedule').addEventListener('click', () => {
         console.log(alert('Hi there, you will be seeing the schedule shortly'))
     })
+
+    // The third event listener listens for change in the dropdown list on the page and fetches data from a public fitness API and displays the content on the page.
+    
    
 
 

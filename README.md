@@ -21,3 +21,6 @@ For Monday, the application guides the user towards engaging on some set of exer
 For Tuesday the user has to follow the same drill as in Monday in channeling the commitment and following the exercise instructions set out by the application except the focus of the day is exercising the back muscles with emphasis on the lower back.
 
 ## Wednesday
+For Wednesday, the drill being the exact same, the focus of the day is working the biceps muscles.
+
+## Thursday

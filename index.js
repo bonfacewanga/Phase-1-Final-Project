@@ -26,6 +26,26 @@
     
 
     }
+     // Rendering the exercises on the page
+ 
+     function renderExercises(exercise){
+        if(exercise){
+        //     const exerciseName = document.getElementById('excercisename')
+        //     exerciseName.textContent = exercise.name
+
+            const exerciseMuscle = document.getElementById('exercisemuscle')
+            exerciseMuscle.textContent = exercise.muscle
+
+            const exerciseEquipment = document.getElementById('exerciseequipment')
+            exerciseEquipment.textContent = exercise.equipment
+
+            const exerciseImage = document.getElementById('exerciseimage')
+            exerciseImage.src = exercise.image_url
+
+            const exercieInstructions = document.getElementById('exerciseinstructions')
+            exercieInstructions.textContent = exercise.instructions
+            
+        }
     
    
 
@@ -37,5 +57,5 @@
 
 
 
-    
+
    })

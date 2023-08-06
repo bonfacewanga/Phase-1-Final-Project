@@ -10,6 +10,22 @@
     })
 
     // The third event listener listens for change in the dropdown list on the page and fetches data from a public fitness API and displays the content on the page.
+    // Loading the exercises
+ 
+    async function loadExercises(id) {
+        const response = await fetch(`http://localhost:3000/excercises/${id}`)
+        if(!response.ok){
+            console.error('Exercises not loaded')
+        }
+        if(response.ok){
+            const exercise = await response.json()
+            console.log('Exercises loaded')
+            return exercise
+        }
+        return null
+    
+
+    }
     
    
 
@@ -17,4 +33,9 @@
 
 
 
+
+
+
+
+    
    })

@@ -27,3 +27,6 @@ For Wednesday, the drill being the exact same, the focus of the day is working t
 This day focuses more on working the triceps part of the arms.
 
 ## Friday 
+Friday is different as compared to the rest of the week, this is a unique day given it's the one and only day of the week that demands the user to commmit to working the lower part of the body with emphasis on the calf muscles.
+
+## Saturday

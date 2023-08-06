@@ -53,6 +53,9 @@
      const select = document.getElementById('daydropdown')
      // This displays the details of the exercises of the day that is default to the dropdown llst (the 'select.value') first before the user can choose a day of his will.
      
+     const exercise = await loadExercises(select.value)
+     renderExercises(exercise)
+     
 
 
 

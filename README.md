@@ -38,6 +38,8 @@ Sunday is a unique day in itself. It's an amazing day and it involves the user e
 The user is required to adhere to their meals and make sure to enjoy themselves and relax as they await the pending week and the exercises that come with it.
 
 ## Additional Functionalities
+The application has buttons that listen for a click event then display an alert message as per the callback functions passed as arguments to the event listeners attached to the button(The event targets).
+
 
 
 

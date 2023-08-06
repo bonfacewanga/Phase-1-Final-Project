@@ -58,24 +58,9 @@
 
      select.addEventListener('change', async(event) =>{
         //event.preventDefault()
+        const exercise = await loadExercises(event.target.value)
+        renderExercises(exercise)
+
      })
-     
-
-
-
-
-
-
     
-   
-
-
-
-
-
-
-
-
-
-
-   })
+})

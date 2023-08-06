@@ -55,6 +55,10 @@
      
      const exercise = await loadExercises(select.value)
      renderExercises(exercise)
+
+     select.addEventListener('change', async(event) =>{
+        //event.preventDefault()
+     })
      
 
 

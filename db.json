@@ -1,0 +1,74 @@
+{
+    "excercises" : [
+      {
+        "id" : 1,
+        "name": "Dumbbell Bench Press",
+        "type": "strength",
+        "muscle": "chest",
+        "equipment": "dumbbell",
+        "difficulty": "intermediate",
+        "image_url" : "assets/The 8 Best Dumbbell Moves For Chest Development.jpeg",
+        "instructions": "Lie down on a flat bench with a dumbbell in each hand resting on top of your thighs. The palms of your hands will be facing each other. Then, using your thighs to help raise the dumbbells up, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width. Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. The dumbbells should be just to the sides of your chest, with your upper arm and forearm creating a 90 degree angle. Be sure to maintain full control of the dumbbells at all times. This will be your starting position. Then, as you breathe out, use your chest to push the dumbbells up. Lock your arms at the top of the lift and squeeze your chest, hold for a second and then begin coming down slowly. Tip: Ideally, lowering the weight should take about twice as long as raising it. Repeat the movement for the prescribed amount of repetitions of your training program.  Caution: When you are done, do not drop the dumbbells next to you as this is dangerous to your rotator cuff in your shoulders and others working out around you. Just lift your legs from the floor bending at the knees, twist your wrists so that the palms of your hands are facing each other and place the dumbbells on top of your thighs. When both dumbbells are touching your thighs simultaneously push your upper torso up (while pressing the dumbbells on your thighs) and also perform a slight kick forward with your legs (keeping the dumbbells on top of the thighs). By doing this combined movement, momentum will help you get back to a sitting position with both dumbbells still on top of your thighs. At this moment you can place the dumbbells on the floor. Variations: Another variation of this exercise is to perform it with the palms of the hands facing each other. Also, you can perform the exercise with the palms facing each other and then twisting the wrist as you lift the dumbbells so that at the top of the movement the palms are facing away from the body. I personally do not use this variation very often as it seems to be hard on my shoulders."
+      },
+      {
+        "id" : 2,
+        "name": "Atlas Stones",
+        "type": "strongman",
+        "muscle": "lower_back",
+        "equipment": "other",
+        "difficulty": "intermediate",
+        "image_url" : "assets/10 Best Muscle-Building Back Exercises!.jpeg" ,
+        "instructions": "Begin with the atlas stone between your feet. Bend at the hips to wrap your arms vertically around the Atlas Stone, attempting to get your fingers underneath the stone. Many stones will have a small flat portion on the bottom, which will make the stone easier to hold. Pulling the stone into your torso, drive through the back half of your feet to pull the stone from the ground. As the stone passes the knees, lap it by sitting backward, pulling the stone on top of your thighs. Sit low, getting the stone high onto your chest as you change your grip to reach over the stone. Stand, driving through with your hips. Close distance to the loading platform, and lean back, extending the hips to get the stone as high as possible."
+      },
+      {
+        "id" : 3,
+        "name": "Incline Hammer Curls",
+        "type": "strength",
+        "muscle": "biceps",
+        "equipment": "dumbbell",
+        "difficulty": "beginner",
+        "image_url" : "assets/Get The Biceps Pump Of Your Life!.jpeg",
+        "instructions": "Seat yourself on an incline bench with a dumbbell in each hand. You should pressed firmly against he back with your feet together. Allow the dumbbells to hang straight down at your side, holding them with a neutral grip. This will be your starting position. Initiate the movement by flexing at the elbow, attempting to keep the upper arm stationary. Continue to the top of the movement and pause, then slowly return to the start position."
+      },
+      {
+        "id" : 4,
+        "name": "Triceps dip",
+        "type": "strength",
+        "muscle": "triceps",
+        "equipment": "body_only",
+        "difficulty": "intermediate",
+        "image_url" : "assets/man doing triceps dip on parallel bars in gym.jpeg",
+        "instructions": "To get into the starting position, hold your body at arm's length with your arms nearly locked above the bars. Now, inhale and slowly lower yourself downward. Your torso should remain upright and your elbows should stay close to your body. This helps to better focus on tricep involvement. Lower yourself until there is a 90 degree angle formed between the upper arm and forearm. Then, exhale and push your torso back up using your triceps to bring your body back to the starting position. Repeat the movement for the prescribed amount of repetitions.  Variations: If you are new at this exercise and do not have the strength to perform it, use a dip assist machine if available. These machines use weight to help you push your bodyweight. Otherwise, a spotter holding your legs can help. More advanced lifters can add weight to the exercise by using a weight belt that allows the addition of weighted plates."
+      },
+      {
+        "id" : 5,
+        "name": "Smith Machine Calf Raise",
+        "type": "strength",
+        "muscle": "calves",
+        "equipment": "machine",
+        "difficulty": "intermediate",
+        "image_url" : "assets/Full Leg & Glute Workouts by TheMillionFV-GYM - Dailymotion.gif",
+        "instructions": "Place a block or weight plate below the bar on the Smith machine. Set the bar to a position that best matches your height. Once the correct height is chosen and the bar is loaded, step onto the plates with the balls of your feet and place the bar on the back of your shoulders. Take the bar with both hands facing forward. Rotate the bar to unrack it. This will be your starting position. Raise your heels as high as possible by pushing off of the balls of your feet, flexing your calf at the top of the contraction. Your knees should remain extended. Hold the contracted position for a second before you start to go back down. Return slowly to the starting position as you breathe in while lowering your heels. Repeat for the recommended amount of repetitions."
+      },
+      {
+        "id" : 6,
+        "name": "Dumbbell front raise to lateral raise",
+        "type": "strength",
+        "muscle": "shoulders",
+        "equipment": "dumbbell",
+        "difficulty": "intermediate",
+        "image_url" : "assets/Joe Andrews on Instagram_ _SHOULDERS & BICEPS 🔥….jpeg",
+        "instructions": "In a standing position, hold a pair of dumbbells at your side. This will be your starting position. Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating. At the top of the exercise move the weights out in front of you, keeping your arms extended. Lower the weights with a controlled motion. On the next repetition, raise the weights in front of you to shoulder height before moving the weights laterally to your sides. Lower the weights to the starting position."
+      },
+      {
+        "id" : 7,
+        "name": "Relaxing Day",
+        "type": "strength recovery",
+        "muscle": "whole body",
+        "equipment": "yoga mat",
+        "difficulty": "intermediate",
+        "image_url" : "assets/OTO boost drops might help you find your energy_.jpeg",
+        "instructions": "This being a relaxing day, all you would need to do is find your most relaxing spot, have your yoga mat down and your most relaxing album and enjoy some good thirty minutes of optimum relaxation, don't forget to give yourself all the kudos you can sum up for all the hardwork you've put in over the week, in preparation for the coming week's sessions, take care, keep your meals and rest and most importantly, have fun!"
+      }
+    ]
+  }

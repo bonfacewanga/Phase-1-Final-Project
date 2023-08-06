@@ -1,0 +1,72 @@
+body {
+    background-color: #888;
+}
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    margin: 200px;
+}
+.gym-container {
+     padding: 15px;
+}
+.gym-pic {
+    max-width: 18%;
+    max-height: 18%;
+    padding: 13px;
+}
+.buttons {
+    text-align: center;
+    font-size: larger;
+    color: wheat;
+}
+#exerciseimage {
+    max-width: 25%;
+    max-height: 30%;
+}
+#daydropdown {
+    font-size: large;
+    background-color: #555;
+    color: wheat;
+}
+#workoutspace {
+    text-align: center;
+    background-color: #666;
+
+}
+
+#exercisemuscle {
+font-size: large;
+text-decoration: underline;
+}
+#exerciseequipment {
+font-size: large;
+}
+#exerciseinstructions {
+border: 1px solid wheat;
+float: left;
+}
+#gymcalendar {
+    font-size: large;
+    background-color: #555;
+    color: wheat;
+   
+}
+
+
+
+
+
+
+
+
+
